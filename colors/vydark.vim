@@ -1,10 +1,10 @@
 "
-" Vim colour file
+" Vydark
 "
-" Maintainer:  Vy-Shane Sin Fat <shane@node.mu>
-" Version:     1.2
+" A comfortable, dark Vim colour scheme for everyday use.
+" This colour scheme is meant for GUI use.
 "
-" This colour file is meant for GUI use.
+" Author: Vy-Shane Sin Fat <shane@node.mu>
 "
 
 set background=dark
